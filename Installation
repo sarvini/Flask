@@ -1,0 +1,10 @@
+How to install Flask?
+     1.To install Python Flask we need to install pip.
+      (PIP is Package Manager that is used to install and manage software packages written in python.)
+     2.Command for installing Pip
+          sudo apt-get install python-pip
+     3.After pip installation is complete we have to install flask.
+     4.Command for installing Flask
+          sudo pip install Flask
+     5.Thus the installation is completed.
+       
