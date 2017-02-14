@@ -1,4 +1,4 @@
-This is a simple "hello world" program..
+A SAMPLE "HELLO WORLD" PROGRAM
 
 from flask import Flask
 
@@ -11,3 +11,11 @@ def hello():
 
 if __name__=="__main__"
     app.run()
+
+
+HOW TO SEE THE OUTPUT:
+
+ Open the terminal and navigate to the location where the helloworld file is stored.
+ Type python filename.py
+ A link address will be dispalyed.Open that link.
+ The output will be dispalyed.
